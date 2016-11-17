@@ -1,0 +1,3 @@
+[submodule "submodulo1"]
+	path = submodulo1
+	url = https://github.com/zambedu/submodule_new.git
